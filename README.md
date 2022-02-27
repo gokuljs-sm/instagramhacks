@@ -1,7 +1,7 @@
 # instagramhacks
 Hi guys, I was hacked instagram by sending multiple follow requests from single or multiple account on every 30s.
 
-I uploaded the script for sending multiple request on here.
+I uploaded the script for sending multiple request on here. It's kinda realy an easy stuff. Everyone can do this.
 
 # Steps to send request
 1. You need a server (Apache + PHP). Use wamp server my suggestion.
