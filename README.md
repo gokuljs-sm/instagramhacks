@@ -1,5 +1,5 @@
 # instagramhacks
-Hi guys, I was hacked instagram by sending multiple follow requests from single account on every 30s.
+Hi guys, I was hacked instagram by sending multiple follow requests from single or multiple account on every 30s.
 
 I uploaded the script for sending multiple request on here.
 
@@ -15,6 +15,9 @@ I uploaded the script for sending multiple request on here.
 9. Use VPN and also stop the running script on a periodic time and change the VPN
 
 I've been reported to instagram about this. So use it quickly and make fun with friends. 
+
+# Note
+1. Don't forgot to rotating IP address
 
 Thank you guys,
 Gokul J S
